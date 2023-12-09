@@ -1,0 +1,15 @@
+#lound{
+	background-color: blue;
+	font-size:29px;
+	color: #fff;
+	height: 70vh;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+
+}
+#user-name{
+	text-transform: capitalize;
+}
